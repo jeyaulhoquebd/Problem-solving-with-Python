@@ -4,4 +4,6 @@ def odd_even(num):
     else:
         return f"{num} is an odd number"
 
-    
+
+print(odd_even(7))
+print(odd_even(10))
